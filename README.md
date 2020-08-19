@@ -13,9 +13,9 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ### Why are businesses interested in investing in quantum computing *now*?
 - Quantum Insurance [1]
-  - You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
+  - "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
   - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
-  - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away.
+  - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
 
 ### Why would established companies (IBM, google, Amazon, Microsoft) put so much money into developing a quantum computer?
 
