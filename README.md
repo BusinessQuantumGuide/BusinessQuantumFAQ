@@ -42,3 +42,23 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 
+## Suggested references
+
+For references that could be relevant, but haven't been included in the main text yet. 
+
+#### A series by Michael Biercuk after he shifted from academic to quantum tech company founder. 
+
+- https://www.linkedin.com/pulse/opportunity-vs-truth-academic-founders-journey-michael-biercuk/
+- https://www.linkedin.com/pulse/dont-afraid-academics-well-prepared-sales-michael-biercuk/
+- https://www.linkedin.com/pulse/academics-bring-more-negotiation-table-than-expect-michael-biercuk/
+- https://www.linkedin.com/pulse/magic-words-academic-founders-unencumbered-ip-michael-biercuk/
+- https://www.linkedin.com/pulse/tips-vcs-better-engage-researchers-michael-biercuk/
+
+#### About VCs
+
+- https://medium.com/swlh/what-i-wish-someone-had-told-me-about-venture-capitalists-9f2ed28c59b3
+- https://www.youtube.com/watch?v=jOSXY8c88sc&feature=emb_logo (talk by Cristina Escoda)
+
+#### About building the link between quantum computing technologies and VC requirements
+
+- https://gumroad.com/perron/p/what-is-deep-tech
