@@ -24,10 +24,13 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 - A manufacturer provides a service to a quantum company to help develop their technology, e.g. a foundry makes the chips for a photonic quantum computing company. 
 
 ### Why would a tenured professor leave their cushy university position to start a quantum computing company? 
+- The opportunity to have real impact on technological progress [2]
+- The potential to relive the early days of computing [2]
 
 ### How should I read/interpret (non-technical) news in this area?
 
 ## References
 
 [1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
+[2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 
