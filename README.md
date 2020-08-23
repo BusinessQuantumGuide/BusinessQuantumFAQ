@@ -1,7 +1,7 @@
 # BusinessQuantumFAQ
 FAQ about the business side of quantum computing aimed at researchers in academia. 
 
-**If you're here, you're absolutely welcome to contribute to this project. To do so, just create a pull request. You can contribute in various ways, inlcuding:**
+**If you're here, you're absolutely welcome to contribute to this project. To do so, just create a pull request. You can contribute in various ways, including:**
 - **Posing a new question**
 - **Suggesting a reference**
 - **Adding some short notes as an answer**
@@ -38,9 +38,8 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ## References
 
-[1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
-
-[2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
+- [1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
+- [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 
 ## Suggested references
 
