@@ -32,5 +32,6 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 ## References
 
 [1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
+
 [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 
