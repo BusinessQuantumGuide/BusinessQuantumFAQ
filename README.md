@@ -1,6 +1,13 @@
 # BusinessQuantumFAQ
 FAQ about the business side of quantum computing aimed at researchers in academia. 
 
+**If you're here, you're absolutely welcome to contribute to this project. To do so, just create a pull request. You can contribute in various ways, inlcuding:**
+- **Posing a new question**
+- **Suggesting a reference**
+- **Adding some short notes as an answer**
+- **Expanding on an existing answer**
+- **...**
+
 This FAQ will focus on quantum computing (hardware & software) rather than broader quantum technologies (i.e. quantum sensing, quantum cryptography). While there are many interesting things to learn about the broader technologies, the business case for those is more obvious. When it comes to quantum computing, however, the business case is not so clear (at least to researchers in academia), given that the development of a useful fault-tolerant quantum computer might still be quite some time in the future. The purpose of this FAQ is to explain the business case for quantum computing, given this context, to researchers from an academic background. 
 
 ## Potential Questions
