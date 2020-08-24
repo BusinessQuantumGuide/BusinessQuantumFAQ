@@ -34,12 +34,46 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 - The opportunity to have real impact on technological progress [2]
 - The potential to relive the early days of computing [2]
 
-### How should I read/interpret (non-technical) news in this area?
+### How should I read the news in this area?
+The amount of quantum tech news is growing rapidly. Reading everything is unsustainable and stressful, and makes you prone to overvaluing information you’ve spent a great amount of time consuming [3]. 
+
+Most articles fall into one of these categories:
+- New company 
+- Company receives new funding 
+- Company develops/releases new hardware
+- Company improves hardware performance
+- Company releases/updates software
+- Company offers new professional services
+- New consortium/partnership between players in industry and/or academia
+- New educational initiative
+- New funding available
+- New roadmap/blueprint by government or other body 
+- New academic research result that impacts the industry
+- Industry gossip (e.g. X poached Y from Z)
+- (any others?)
+
+To figure out which ones to read:
+1) Define your professional and personal goals.
+2) Decide which of these categories will affect your goals.
+3) Pay attention to the top few. 
+
+For example, a professor with no interest in leaving academia might read only about funding initiatives bridging industry and academia, to be aware of relevant opportunities. 
+
+A fresh graduate looking to enter the industry might read only the “about the company” sections of press releases, to get an idea of who the active players are. 
+
+A job seeker preparing for an interview with a specific company might focus on articles about that part of the industry, and read them in some depth to have a good grasp of subtle differences between competitors. 
+
+An industry professional might focus on articles discussing strategic partnerships and industry gossip. 
+
+(These are just illustrative examples, so don’t follow them verbatim. Rather, define a strategy appropriate for you and your goals.)
+
+Pro tip: many articles have sections explaining the basics of quantum information aimed at the general public. You can often skip these, especially if you have a background in the field. 
 
 ## References
 
 - [1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
 - [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
+- [3] https://fs.blog/2018/04/first-principles/
 
 ## Suggested references
 
