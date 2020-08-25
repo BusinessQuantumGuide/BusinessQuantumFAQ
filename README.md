@@ -50,6 +50,14 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 
 #### Q: What are the different types of hardware? 
 
+- Neutral Atoms
+- Nitrogen Vacancy Centres in Diamond
+- Photonic
+- Spin in Silicon
+- Superconducting
+- Topoligical
+- Trapped Ions
+
 #### Q: How should I assess the performance of a quantum computing device?
 
 It’s useful to consider the following points (as suggested by Scott Aaronson [4]):
