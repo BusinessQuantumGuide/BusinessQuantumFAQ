@@ -120,10 +120,11 @@ For references that could be relevant, but haven't been included in the main tex
 - https://www.linkedin.com/pulse/magic-words-academic-founders-unencumbered-ip-michael-biercuk/
 - https://www.linkedin.com/pulse/tips-vcs-better-engage-researchers-michael-biercuk/
 
-#### About VCs
+#### About VCs and their perspective
 
 - https://medium.com/swlh/what-i-wish-someone-had-told-me-about-venture-capitalists-9f2ed28c59b3
 - https://www.youtube.com/watch?v=jOSXY8c88sc&feature=emb_logo (talk by Cristina Escoda)
+- https://medium.com/mfv-partners/how-a-new-generation-of-computing-is-driving-disruptive-change-6e476f908c9a
 
 #### About building the link between quantum computing technologies and VC requirements
 
