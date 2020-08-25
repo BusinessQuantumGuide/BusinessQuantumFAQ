@@ -69,11 +69,26 @@ An industry professional might focus on articles discussing strategic partnershi
 
 Pro tip: many articles have sections explaining the basics of quantum information aimed at the general public. You can often skip these, especially if you have a background in the field. 
 
+### How should I assess the performance of a quantum computing device?
+
+It’s useful to consider the following points (as suggested by Scott Aaronson [4]):
+
+- How many qubits does it have? (more is better)
+- What are the qubit coherence times? (longer is better)
+- What is the connectivity? (higher is likely better, but not always)
+- What are the 1- and 2-qubit gate fidelities? (closer to 1 is better)
+- What depth of circuit can you do? (higher is better)
+- What resources do the standard classical algorithms need to simulate your system? 
+- What’s the main drawback of the system, i.e., what spec is the worst/most needs to improve? 
+- What prevents this architecture from being scalable right now? 
+
+
 ## References
 
 - [1] https://thequantumdaily.com/2020/07/30/head-of-business-development-at-qc-ware-yianni-gamvros-reflects-on-the-present-and-future-of-quantum-computing/
 - [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 - [3] https://fs.blog/2018/04/first-principles/
+- [4] https://www.scottaaronson.com/blog/?p=4649
 
 ## Suggested references
 
