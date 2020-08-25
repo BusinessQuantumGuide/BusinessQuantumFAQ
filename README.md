@@ -28,7 +28,7 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ### Are VC investors foolishly funding some quantum startups that they shouldn’t be?
 
-This answer was given by Scott Aaronson [6]:
+This partial answer was given by Scott Aaronson [6]:
 
 "I don’t know the answer to this question (and don’t pretend to know when I’m asked). One problem is that many, many things that are easy to recognize as “foolish” in retrospect were hard to recognize as foolish at the time, even by the best experts that there were. Or the people who correctly said that these were foolish investments (and gave correct reasons), also said that Apple, Facebook, and Bitcoin were foolish investments.
 
