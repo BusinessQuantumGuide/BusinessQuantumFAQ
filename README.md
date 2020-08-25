@@ -32,7 +32,7 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 
 ### BUSINESS
 
-#### Q: Why are businesses interested in exploring in quantum computing *now*?
+#### Q: Why are businesses interested in exploring quantum computing *now*?
 - Quantum Insurance [1]
   - "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
   - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
