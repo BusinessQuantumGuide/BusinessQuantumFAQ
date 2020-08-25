@@ -82,6 +82,8 @@ It’s useful to consider the following points (as suggested by Scott Aaronson [
 - What’s the main drawback of the system, i.e., what spec is the worst/most needs to improve? 
 - What prevents this architecture from being scalable right now? 
 
+### What is the difference between a noisy intermediate scale quantum (NISQ( device and a fault tolerant quantum computer?
+
 
 ## References
 
