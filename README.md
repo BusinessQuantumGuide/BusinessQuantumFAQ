@@ -26,6 +26,14 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ### Why would established companies (IBM, google, Amazon, Microsoft) put so much money into developing a quantum computer?
 
+### Are VC investors foolishly funding some quantum startups that they shouldn’t be?
+
+This answer was given by Scott Aaronson [6]:
+
+"I don’t know the answer to this question (and don’t pretend to know when I’m asked). One problem is that many, many things that are easy to recognize as “foolish” in retrospect were hard to recognize as foolish at the time, even by the best experts that there were. Or the people who correctly said that these were foolish investments (and gave correct reasons), also said that Apple, Facebook, and Bitcoin were foolish investments.
+
+One thing you learn, from even short exposure to the VC world, is that VCs are not even trying to answer the same question that an academic would: “is this proposal intellectually sound, or isn’t it?” They’re looking at a large number of other ways they might recoup the investment, like accumulating valuable IP, a buyout by a larger company (which might be more for the people than for the idea), etc. That makes it even more impossible for me to judge, except in some very special cases, whether people are making good or bad investments."
+
 ### What are the common business relationships?
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
 - A manufacturer provides a service to a quantum company to help develop their technology, e.g. a foundry makes the chips for a photonic quantum computing company. 
@@ -98,6 +106,7 @@ Many of these performance parameters are also summarised in several "scorecards"
 - [3] https://fs.blog/2018/04/first-principles/
 - [4] https://www.scottaaronson.com/blog/?p=4649
 - [5] https://quantumcomputingreport.com/scorecards/
+- [6] https://www.scottaaronson.com/blog/?p=4447#comment-1827146
 
 ## Suggested references
 
