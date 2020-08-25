@@ -55,7 +55,7 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 - Photonic
 - Spin in Silicon
 - Superconducting
-- Topoligical
+- Topological
 - Trapped Ions
 
 #### Q: How should I assess the performance of a quantum computing device?
