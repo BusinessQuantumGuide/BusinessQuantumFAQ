@@ -14,15 +14,15 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ### INVESTING
 
-#### What is a venture capital (VC) investor?
+#### Q: What is a venture capital (VC) investor?
 
 _See "About VCs and their perspective" in the Suggested Resources section at the end of this document for ideas on how to start answering this question._
 
-#### Why would someone invest in a quantum computing startup?
+#### Q: Why would someone invest in a quantum computing startup?
 - Arguably the point is to make a return on the investment.
 - Discuss exit strategies
 
-#### Are VC investors foolishly funding some quantum startups that they shouldn’t be?
+#### Q: Are VC investors foolishly funding some quantum startups that they shouldn’t be?
 
 This partial answer was given by Scott Aaronson [6]:
 
@@ -32,21 +32,21 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 
 ### BUSINESS
 
-#### Why are businesses interested in investing in quantum computing *now*?
+#### Q: Why are businesses interested in investing in quantum computing *now*?
 - Quantum Insurance [1]
   - "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
   - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
   - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
 
-#### Why would established companies (IBM, google, Amazon, Microsoft) put so much money into developing a quantum computer?
+#### Q: Why would established companies (IBM, google, Amazon, Microsoft) put so much money into developing a quantum computer?
 
-#### What are the common business relationships?
+#### Q: What are the common business relationships?
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
 - A manufacturer provides a service to a quantum company to help develop their technology, e.g. a foundry makes the chips for a photonic quantum computing company. 
 
 ### TECHNICAL
 
-#### How should I assess the performance of a quantum computing device?
+#### Q: How should I assess the performance of a quantum computing device?
 
 It’s useful to consider the following points (as suggested by Scott Aaronson [4]):
 
@@ -59,21 +59,21 @@ It’s useful to consider the following points (as suggested by Scott Aaronson [
 - What’s the main drawback of the system, i.e., what spec is the worst/most needs to improve? 
 - What prevents this architecture from being scalable right now? 
 
-#### Where can I get these performance parameters?
+#### Q: Where can I get these performance parameters?
 
 Some of these can be found on company websites. For others, you may need to read the press releases or journal articles announcing a specific device.
 
 Many of these performance parameters are also summarised in several "scorecards" hosted on the Quantum Computing Report website [5], but a subscription is required to access these.  
 
-#### What is the difference between a noisy intermediate scale quantum (NISQ) device and a fault tolerant quantum computer?
+#### Q: What is the difference between a noisy intermediate scale quantum (NISQ) device and a fault tolerant quantum computer?
 
 ### PERSONAL
 
-#### Why would a tenured professor leave their cushy university position to start a quantum computing company? 
+#### Q: Why would a tenured professor leave their cushy university position to start a quantum computing company? 
 - The opportunity to have real impact on technological progress [2]
 - The potential to relive the early days of computing [2]
 
-#### How should I read the news in this area?
+#### Q: How should I read the news in this area?
 The amount of quantum tech news is growing rapidly. Reading everything is unsustainable and stressful, and makes you prone to overvaluing information you’ve spent a great amount of time consuming [3]. 
 
 Most articles fall into one of these categories:
