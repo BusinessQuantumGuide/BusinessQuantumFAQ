@@ -3,7 +3,7 @@ FAQ about the business side of quantum computing aimed at researchers in academi
 
 **If you're here, you're absolutely welcome to contribute to this project. To do so, just create a pull request. You can contribute in various ways, including:**
 - **Posing a new question**
-- **Suggesting a reference**
+- **Suggesting a resource**
 - **Adding some short notes as an answer**
 - **Expanding on an existing answer**
 - **...**
@@ -108,9 +108,9 @@ Many of these performance parameters are also summarised in several "scorecards"
 - [5] https://quantumcomputingreport.com/scorecards/
 - [6] https://www.scottaaronson.com/blog/?p=4447#comment-1827146
 
-## Suggested references
+## Suggested resources
 
-For references that could be relevant, but haven't been included in the main text yet. 
+For resources that could be relevant, but haven't been included in the main text yet. 
 
 #### A series by Michael Biercuk after he shifted from academic to quantum tech company founder. 
 
