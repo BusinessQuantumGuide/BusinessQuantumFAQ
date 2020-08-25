@@ -12,7 +12,7 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 ## Potential Questions
 
-### What is a venture capital firm and what do they do?
+### What is a venture capital (VC) investor?
 
 ### Why would someone invest in a quantum computing startup?
 - Arguably the point is to make a return on the investment.
