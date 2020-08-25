@@ -44,6 +44,8 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
 - A manufacturer provides a service to a quantum company to help develop their technology, e.g. a foundry makes the chips for a photonic quantum computing company. 
 
+#### There are many quantum software companies out there. How can I differentiate between them?
+
 ### TECHNICAL
 
 #### Q: What are the different types of hardware? 
