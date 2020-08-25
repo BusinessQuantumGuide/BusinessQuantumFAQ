@@ -82,6 +82,12 @@ It’s useful to consider the following points (as suggested by Scott Aaronson [
 - What’s the main drawback of the system, i.e., what spec is the worst/most needs to improve? 
 - What prevents this architecture from being scalable right now? 
 
+### Where can I get these performance parameters?
+
+Some of these can be found on company websites. For others, you may need to read the press releases or journal articles announcing a specific device.
+
+Many of these performance parameters are also summarised in several "scorecards" hosted on the Quantum Computing Report website [5], but a subscription is required to access these.  
+
 ### What is the difference between a noisy intermediate scale quantum (NISQ) device and a fault tolerant quantum computer?
 
 
@@ -91,6 +97,7 @@ It’s useful to consider the following points (as suggested by Scott Aaronson [
 - [2] http://nisqybusiness.com/2019/08/05/what-the-hell-have-i-just-done/
 - [3] https://fs.blog/2018/04/first-principles/
 - [4] https://www.scottaaronson.com/blog/?p=4649
+- [5] https://quantumcomputingreport.com/scorecards/
 
 ## Suggested references
 
