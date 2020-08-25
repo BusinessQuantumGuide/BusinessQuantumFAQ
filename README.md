@@ -32,13 +32,13 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 
 ### BUSINESS
 
-#### Q: Why are businesses interested in investing in quantum computing *now*?
+#### Q: Why are businesses interested in exploring in quantum computing *now*?
 - Quantum Insurance [1]
   - "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
   - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
   - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
 
-#### Q: Why would established companies (IBM, google, Amazon, Microsoft) put so much money into developing a quantum computer?
+#### Q: Why are established companies (IBM, google, Amazon, Microsoft) intersted in building a quantum computer?
 
 #### Q: What are the common business relationships?
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
