@@ -16,7 +16,7 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 #### Q: What is a venture capital (VC) investor?
 
-_Some clues on how to answer this question might be found in the links under "About VCs and their perspective" in the Suggested Resources section at the end of this document for ideas on how to start answering this question._
+_Some clues on how to answer this question might be found in the links under "About VCs and their perspective" in the Suggested Resources section at the end of this document._
 
 #### Q: Why would someone invest in a quantum computing startup?
 
