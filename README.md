@@ -16,9 +16,11 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 #### Q: What is a venture capital (VC) investor?
 
-_See "About VCs and their perspective" in the Suggested Resources section at the end of this document for ideas on how to start answering this question._
+_Some clues on how to answer this question might be found in the links under "About VCs and their perspective" in the Suggested Resources section at the end of this document for ideas on how to start answering this question._
 
 #### Q: Why would someone invest in a quantum computing startup?
+
+_Expand on these points:_
 - Arguably the point is to make a return on the investment.
 - Discuss exit strategies
 
@@ -33,18 +35,23 @@ One thing you learn, from even short exposure to the VC world, is that VCs are n
 ### BUSINESS
 
 #### Q: Why are businesses interested in exploring quantum computing *now*?
-- Quantum Insurance [1]
-  - "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
-  - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
-  - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
+
+Yianni Gamvros discusses the idea of _Quantum Insurance_ [1]:
+- "You don’t want to get blindsided and find out from others what is possible. You should have a quantum strategy and contingency plans.
+- If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
+- Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
 
 #### Q: Why are established companies (IBM, google, Amazon, Microsoft) intersted in building a quantum computer?
+
+_TBA_
 
 #### Q: What are the common business relationships?
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
 - A manufacturer provides a service to a quantum company to help develop their technology, e.g. a foundry makes the chips for a photonic quantum computing company. 
 
 #### Q: There are many quantum software companies out there. How can I differentiate between them?
+
+_TBA_
 
 ### TECHNICAL
 
