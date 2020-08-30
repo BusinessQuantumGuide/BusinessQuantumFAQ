@@ -24,6 +24,29 @@ _Expand on these points:_
 - Arguably the point is to make a return on the investment.
 - Discuss exit strategies
 
+The reason behind investing in (any) company depends on the investment round, type, fund and in the end, the person behind. In most cases it is about making a good return on the investment (ideally 20x onwards). But again it fully depends on the stage and type of company and VC.
+
+Specifically in a field as young as Quantum Computing, we can divide the types of investment based on the capitalization needed. Hardware companies that require more starting capital will lure "big guns" investors with wide portfolios and used to long horizon series A, B or C.
+Examples are D-Wave (https://www.crunchbase.com/organization/d-wave-systems/company_financials) and IonQ (https://www.crunchbase.com/organization/ionq-inc/company_financials) series of rounds.
+
+Software companies (either consulting or SaaS) are typically less capitalized and follow smaller rounds. As such they can start with Seed rounds (or even "FFF", Friends Fools and Family). And grow from there.
+
+On both cases, and contrary to more developed and mature industries, investors typically find their returns on the exit. Which comes after a new round with replacement investors and new capital. This is what increases the company valuation (sometimes artificially). This leads in some cases to missmanagement, or conflict of interests between founders and investors. The latter being more interested in increasing the valuation and going to a new round, the former into building a product that creates value. It is important to make sure investors and founders are fully aligned on the short and long term plans for the company.
+
+In most industries (and certainly in Deep Tech) there is also specialization in funds. In Quantum Computing there is a handful of funds (very small at the moment) who invest only in QC. By doing so they are fully inmersed in the industry and can provide additional value to the founder (networking, access to additional capital, access to advisors, grants, etc).
+On the other hand, big funds (and the majority of them have already at least one investment in their portfolio) enter with a purely financial strategy. Either portfolio diversification considering Quantum Computing a higher risk - higher return asset, or for potential leverages within their investments.
+
+The third case is corporate entrepreneurship. Big corporations are typically risk averse and very slow to adapt new technologies into their processes. And the best way is to create accelerators or small funds that are highly linked to their industry. From those vehicles they can spot trends, identify opportunities and key people by a fraction of what it would cost to do "in house". In many cases those investments hold a majority of the shares of the company and when it makes sense they end up buying the whole company and incorporating it into the home company.
+
+The Quantum Computing industry is still young and the economics don't lure dividend based investors. So EBITDA or ARR KPIs won't be typically considered. On the contraty they will be looking at Intellectual Property, papers and patents. Key people in the team, and client acquisition capabilities.
+
+The main exits will be (a combination of):
+* Bigger round exit (replacement) - I.e. From Seed to Series A
+* Merger with another QC company
+* Acquihire - A corporate or a bigger animal buying your team
+* Client acquisition - Buying your clients, contracts and partnerships
+* IP acquisition - Buying your technology
+
 #### Q: Are VC investors foolishly funding some quantum startups that they shouldn’t be?
 
 This partial answer was given by Scott Aaronson [6]:
