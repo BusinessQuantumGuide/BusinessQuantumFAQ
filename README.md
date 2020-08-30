@@ -22,6 +22,20 @@ _Some clues on how to answer this question might be found in the links under "Ab
 
 _TBA_
 
+#### Q: What are the stages of startup funding?
+
+- Pre-Seed Funding: The bootstrapping stage
+  - Friends, Family & Fools (FFF)
+  - Business angels
+  - Accelerators
+- Seed Funding: Product development stage
+- Seed Plus Funding: Bridge round
+- Series A Funding: First round of VC
+- Series B Funding: Second round of VC
+- Series C Funding: Third round of VC
+- Series D Funding: Special round of funding
+- Initial Public Offering (IPO): Stock market launch
+
 #### Q: Why would someone invest in a quantum computing startup?
 
 The reason behind investing in (any) company depends on the investment round, type, fund and in the end, the person behind. In most cases it is about making a good return on the investment (ideally 20x onwards). But again it fully depends on the stage and type of company and VC.
