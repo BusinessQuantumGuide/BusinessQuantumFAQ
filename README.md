@@ -18,6 +18,10 @@ This FAQ will focus on quantum computing (hardware & software) rather than broad
 
 _Some clues on how to answer this question might be found in the links under "About VCs and their perspective" in the Suggested Resources section at the end of this document._
 
+#### Q: What is deep tech?
+
+_TBA_
+
 #### Q: Why would someone invest in a quantum computing startup?
 
 The reason behind investing in (any) company depends on the investment round, type, fund and in the end, the person behind. In most cases it is about making a good return on the investment (ideally 20x onwards). But again it fully depends on the stage and type of company and VC.
