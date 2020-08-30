@@ -20,10 +20,6 @@ _Some clues on how to answer this question might be found in the links under "Ab
 
 #### Q: Why would someone invest in a quantum computing startup?
 
-_Expand on these points:_
-- Arguably the point is to make a return on the investment.
-- Discuss exit strategies
-
 The reason behind investing in (any) company depends on the investment round, type, fund and in the end, the person behind. In most cases it is about making a good return on the investment (ideally 20x onwards). But again it fully depends on the stage and type of company and VC.
 
 Specifically in a field as young as Quantum Computing, we can divide the types of investment based on the capitalization needed. Hardware companies that require more starting capital will lure "big guns" investors with wide portfolios and used to long horizon series A, B or C.
