@@ -10,7 +10,24 @@ FAQ about the business side of quantum computing aimed at researchers in academi
 
 This FAQ will focus on quantum computing (hardware & software) rather than broader quantum technologies (i.e. quantum sensing, quantum cryptography). While there are many interesting things to learn about the broader technologies, the business case for those is more obvious. When it comes to quantum computing, however, the business case is not so clear (at least to researchers in academia), given that the development of a useful fault-tolerant quantum computer might still be quite some time in the future. The purpose of this FAQ is to explain the business case for quantum computing, given this context, to researchers from an academic background. 
 
-## Potential Questions
+## Questions
+
+#### Q: Why do we need a FAQ about the business side of quantum computing aimed at researchers in academia?
+
+Right now, there are some academics who are thinking roughly like this:
+
+- I know that quantum computers can solve some very specific problems, like factoring, more efficiently than classical computers.
+- This is cool and all, but how world-changing is factoring anyway?
+- And in any case, we will need around a million qubits to make a fault-tolerant quantum computer able to factor usefully large numbers.
+- This is many years in the future, isn’t it?
+- So what’s is going on? 
+- Why would anyone who wants to make money invest in quantum computing?
+- Why are all my friends leaving academia to go to industry?
+- Are my friends tricking the investors to give them money when they shouldn’t? 
+- Are the investors tricking my friends to some end that I don’t understand?
+- Isn’t all of this hype dangerous to my _legitimate_ research program?
+
+The point of this FAQ is to help answer these questions, by posing and answering some other questions that dig deeper into the business side of quantum computing. 
 
 ### INVESTING
 
