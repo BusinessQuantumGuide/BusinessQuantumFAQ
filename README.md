@@ -36,30 +36,42 @@ _TBA_
 - Series D Funding: Special round of funding
 - Initial Public Offering (IPO): Stock market launch
 
+#### Q: What kind of investors exist in the QC ecosystem?
+
+In most industries (and certainly in Deep Tech and thus QC) there is what is known as _specialization_ in funds. 
+
+Right now, there is a very small handful of funds that invest in only QC. By doing so they are fully immersed in the industry and can provide additional value to the founder (networking, access to additional capital, access to advisors, grants, etc). 
+
+On the other hand, big funds (that usually have at least one investment in their portfolio) enter with a purely financial strategy: either portfolio diversification that considers QC a higher risk-higher return asset, or for potential leverages within their investments.
+
+The third case is corporate entrepreneurship. Big corporations are typically risk-averse and are very slow to adapt new technologies into their processes. Therefore, the best way for them to do so, is to create accelerators or small funds that are highly linked to their industry. From those vehicles they can spot trends, identify opportunities and identify key people, for only a fraction of what it would cost to do "in house". In many cases those investments hold a majority of the shares of the company and, when it makes sense, they end up buying the whole company and incorporating it into the home company.
+
 #### Q: Why would someone invest in a quantum computing startup?
 
-The reason behind investing in (any) company depends on the investment round, type, fund and in the end, the person behind. In most cases it is about making a good return on the investment (ideally 20x onwards). But again it fully depends on the stage and type of company and VC.
+The reason behind investing in any company depends on various things. In most cases it’s about making a good return on the investment (ideally 20x onwards) <citation for 20x?>, but it also depends on the investment round, type of company, investment fund, and ultimately the person behind the investing.
 
-Specifically in a field as young as Quantum Computing, we can divide the types of investment based on the capitalization needed. Hardware companies that require more starting capital will lure "big guns" investors with wide portfolios and used to long horizon series A, B or C.
-Examples are D-Wave (https://www.crunchbase.com/organization/d-wave-systems/company_financials) and IonQ (https://www.crunchbase.com/organization/ionq-inc/company_financials) series of rounds.
+In QC, we can divide the types of investment based on the capitalization needed:
 
-Software companies (either consulting or SaaS) are typically less capitalized and follow smaller rounds. As such they can start with Seed rounds (or even "FFF", Friends Fools and Family). And grow from there.
+- Hardware companies that require more starting capital will lure "big guns” investors, with wide portfolios, who are used to investment rounds with long horizons (series A, B or C). Examples are D-Wave [7] and IonQ [8].
+- Software companies (either consulting or SaaS) are typically less capitalized and follow smaller rounds. As such, they can start with Seed rounds (or even "FFF", Friends Fools and Family), and grow from there.
 
-On both cases, and contrary to more developed and mature industries, investors typically find their returns on the exit. Which comes after a new round with replacement investors and new capital. This is what increases the company valuation (sometimes artificially). This leads in some cases to missmanagement, or conflict of interests between founders and investors. The latter being more interested in increasing the valuation and going to a new round, the former into building a product that creates value. It is important to make sure investors and founders are fully aligned on the short and long term plans for the company.
+Since Quantum Computing is a young field, the investing strategy differs from more developed and mature industries. The economics doesn’t lure dividend-based investors, so key performance indicators (KPIs) measuring a company's overall financial performance—such as earnings before interest, taxes, depreciation, and amortization (EBITDA) or annual recurring revenue (ARR)—won't be typically considered. In QC, investors typically find their returns on what is known as an “exit”.  They will be looking at intellectual property (IP), papers and patents, key people in the team, and client acquisition capabilities.
 
-In most industries (and certainly in Deep Tech) there is also specialization in funds. In Quantum Computing there is a handful of funds (very small at the moment) who invest only in QC. By doing so they are fully inmersed in the industry and can provide additional value to the founder (networking, access to additional capital, access to advisors, grants, etc).
-On the other hand, big funds (and the majority of them have already at least one investment in their portfolio) enter with a purely financial strategy. Either portfolio diversification considering Quantum Computing a higher risk - higher return asset, or for potential leverages within their investments.
+#### Q: What is an “exit”?
 
-The third case is corporate entrepreneurship. Big corporations are typically risk averse and very slow to adapt new technologies into their processes. And the best way is to create accelerators or small funds that are highly linked to their industry. From those vehicles they can spot trends, identify opportunities and key people by a fraction of what it would cost to do "in house". In many cases those investments hold a majority of the shares of the company and when it makes sense they end up buying the whole company and incorporating it into the home company.
+An “exit” is the point at which a VC sells their stake in a company to realize their gains (or losses). 
 
-The Quantum Computing industry is still young and the economics don't lure dividend based investors. So EBITDA or ARR KPIs won't be typically considered. On the contraty they will be looking at Intellectual Property, papers and patents. Key people in the team, and client acquisition capabilities.
+The main exits will be (usually a combination of):
 
-The main exits will be (a combination of):
-* Bigger round exit (replacement) - I.e. From Seed to Series A
-* Merger with another QC company
-* Acquihire - A corporate or a bigger animal buying your team
-* Client acquisition - Buying your clients, contracts and partnerships
-* IP acquisition - Buying your technology
+- Bigger round exit (replacement), i.e. from Seed to Series A
+- Merger with another QC company
+- Acquihire - A corporate or a bigger animal buying your team, primarily for the skills and expertise of its staff, rather than for the products or services it supplies.
+- Client acquisition - Buying your clients, contracts and partnerships
+- IP acquisition - Buying your technology
+
+The exit comes after a new round with replacement investors and new capital. This is what increases the company valuation (sometimes artificially). 
+
+Sometimes, this leads to miss-management, or conflict of interests between founders and investors. The latter being more interested in increasing the valuation and going to a new round, the former into building a product that creates value. It is important to make sure that investors and founders are fully aligned on the short and long term plans for the company.
 
 #### Q: Are VC investors foolishly funding some quantum startups that they shouldn’t be?
 
@@ -172,6 +184,8 @@ Pro tip: many articles have sections explaining the basics of quantum informatio
 - [4] https://www.scottaaronson.com/blog/?p=4649
 - [5] https://quantumcomputingreport.com/scorecards/
 - [6] https://www.scottaaronson.com/blog/?p=4447#comment-1827146
+- [7] https://www.crunchbase.com/organization/d-wave-systems/company_financials
+- [8] https://www.crunchbase.com/organization/ionq-inc/company_financials
 
 ## Suggested resources
 
