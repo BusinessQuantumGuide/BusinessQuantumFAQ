@@ -27,7 +27,7 @@ Right now, there are some academics who are thinking roughly like this:
 - Are the investors tricking my friends to some end that I don’t understand?
 - Isn’t all of this hype dangerous to my _legitimate_ research program?
 
-The point of this FAQ is to help answer these questions, by posing and answering some other questions that dig deeper into the business side of quantum computing. 
+The point of this FAQ is to help answer these questions, either directly or indirectly.
 
 ### INVESTING
 
