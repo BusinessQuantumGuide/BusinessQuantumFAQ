@@ -33,6 +33,8 @@ The point of this FAQ is to help answer these questions, either directly or indi
 
 #### Q: What is a venture capital (VC) investor?
 
+_TBA_
+
 _Some clues on how to answer this question might be found in the links under "About VCs and their perspective" in the Suggested Resources section at the end of this document._
 
 #### Q: What is deep tech?
@@ -151,6 +153,8 @@ Some of these can be found on company websites. For others, you may need to read
 Many of these performance parameters are also summarised in several "scorecards" hosted on the Quantum Computing Report website [5], but a subscription is required to access these.  
 
 #### Q: What is the difference between a noisy intermediate scale quantum (NISQ) device and a fault tolerant quantum computer?
+
+_TBA_
 
 ### PERSONAL
 
