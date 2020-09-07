@@ -109,9 +109,9 @@ Yianni Gamvros discusses the idea of _Quantum Insurance_ [1]:
 - If you wait for the technology to mature, it will be too late. You need to start training people that can hit the ground running as soon as the technology gets there. Training people takes time, literally years.
 - Technology timeframes are always shrinking. Twenty years ago, people thought quantum computing was a sci-fi dream. Ten years ago, most people believed practical quantum computers were 50 years out. Today, we think they are three to five years away."
 
-#### Q: Why are established companies (IBM, google, Amazon, Microsoft) intersted in building a quantum computer?
+#### Q: Why are big corporations—such as IBM, google, Amazon, and Microsoft—interested in building a quantum computer?
 
-_TBA_
+Reserach divisions within big corporations help the companies stay on top of trends in emerging technology. For example, IBM does a Global Technology Outlook (GTO) on an annual basis [9]. Part of the process is to seek recommendations from individuals in IBM Research around emerging technologies that have the opportunity to create the next billion-dollar business for IBM. IBM Researchers are also involved in developing technology roadmaps, such as the Quantum Computing Use Case Roadmap released in 2020 [10]. 
 
 #### Q: What are the common business relationships?
 - A non-quantum business seeks advice from a quantum business about whether quantum computers can solve any of their problems, e.g. a pharmaceutical company wants to know if a quantum chemistry algorithm can help with drug design. 
@@ -207,6 +207,8 @@ Pro tip: many articles have sections explaining the basics of quantum informatio
 - [6] https://www.scottaaronson.com/blog/?p=4447#comment-1827146
 - [7] https://www.crunchbase.com/organization/d-wave-systems/company_financials
 - [8] https://www.crunchbase.com/organization/ionq-inc/company_financials
+- [9] https://www.technologyreview.com/2019/06/13/134967/ai-mit-ibm-tech-business-future-of-work/
+- [10] https://quantumcomputingreport.com/a-quantum-computing-application-roadmap-from-ibm/
 
 ## Suggested resources
 
